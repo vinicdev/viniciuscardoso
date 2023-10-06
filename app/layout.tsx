@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 	openGraph: {
 		title: "viniciuscardoso.dev",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
+			"Desenvolvedor front-end com habilidades em criação de interfaces web atraentes e funcionais.",
 		url: "https://viniciuscardoso.dev",
 		siteName: "viniciuscardoso.dev",
 		images: [

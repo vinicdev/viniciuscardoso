@@ -35,7 +35,7 @@ export default function Home() {
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
-					Olá, meu nome é Vinicius Cardoso, e sou um experiente desenvolvedor front-end 
+					Olá, meu nome é Vinicius Cardoso. Sou um experiente desenvolvedor front-end 
 					<br />
 					com habilidades em criação de interfaces web atraentes e funcionais.
 				</h2>
