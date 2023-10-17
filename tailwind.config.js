@@ -104,6 +104,7 @@ module.exports = {
 			},
 			colors: {
 				'icon': '#A89288',
+				'iconHover': '#7a655c',
 			},
 			spacing: {
 				'600': '37.5rem',
