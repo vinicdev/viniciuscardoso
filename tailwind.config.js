@@ -102,6 +102,12 @@ module.exports = {
 					},
 				},
 			},
+			colors: {
+				'icon': '#A89288',
+			},
+			spacing: {
+				'600': '37.5rem',
+			}
 		},
 	},
 	plugins: [
