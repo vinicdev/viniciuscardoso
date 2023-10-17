@@ -1,7 +1,12 @@
 import { Mail } from "lucide-react";
 import clipboardCopy from "clipboard-copy";
 
-export default function CardBio({ copied, setCopied }) {
+type CardBioProps = {
+    copied: boolean;
+    setCopied: React.Dispatch<React.SetStateAction<boolean>>;
+};
+
+export default function CardBio({ copied, setCopied }: CardBioProps) {
     const copyEmail = () => {
         const email = "contato@viniciuscardoso.dev";
 
