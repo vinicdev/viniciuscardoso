@@ -103,8 +103,8 @@ module.exports = {
 				},
 			},
 			colors: {
-				'icon': '#A89288',
-				'iconHover': '#7a655c',
+				'icon': '#f2f2f2',
+				'iconHover': '#a4a4a4',
 			},
 			spacing: {
 				'600': '37.5rem',

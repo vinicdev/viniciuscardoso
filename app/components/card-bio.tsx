@@ -20,7 +20,7 @@ export default function CardBio({ copied, setCopied }: CardBioProps) {
             });
     }
     return (
-        <section className="w-full h-600 bg-left bg-top bg-repeat bg-cover rounded-3xl p-6 flex flex-col items-start justify-end" style={{ backgroundImage: 'linear-gradient(45deg, #FF9B52 17%, rgba(255,128,128,0.769) 62%), url("https://avatars.githubusercontent.com/u/75495504?v=4")', boxShadow: '0rem 0.625rem 3.5rem 0.75rem rgba(74,26,19,0.259)' }}>
+        <section className="w-full h-600 bg-left bg-top bg-repeat bg-cover rounded-3xl p-6 flex flex-col items-start justify-end" style={{ backgroundImage: 'linear-gradient(45deg, #393939 17%,  rgb(81 81 81 / 77%) 62%), url("https://avatars.githubusercontent.com/u/75495504?v=4")', boxShadow: '0rem 0.625rem 3.5rem 0.75rem rgb(117 117 117 / 4%)' }}>
             <h1 className="text-white text-6xl font-bold">
                 Vinicius Cardoso
             </h1>
