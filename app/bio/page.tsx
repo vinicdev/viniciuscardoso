@@ -13,10 +13,10 @@ export default function Bio() {
             backgroundSize: '62px',
             backgroundColor: '#333333'
         }}>
-            <section className="max-w-xl min-h-screen pb-px flex flex-col justify-center gap-8">
+            <section className="max-w-xl min-h-screen pb-px flex flex-col justify-center gap-8 p-2">
                 <CardBio copied={copied} setCopied={setCopied}/>
                 <nav>
-                    <ul className="flex gap-4 mt-2">
+                    <ul className="flex gap-4 mt-2 p-2">
                         <li>
                             <a href="https://www.linkedin.com/in/vinicdev/" title="Linkedin" target="_blank">
                                 <Linkedin className="stroke-icon hover:stroke-iconHover hover:scale-125 ease-in duration-300" />
@@ -33,7 +33,7 @@ export default function Bio() {
                             </a>
                         </li>
                         <li>
-                            <a href="https://viniciuscardoso.dev/" title="Portfolio" target="_blank">
+                            <a href="https://viniciuscardoso.dev/" title="Portfólio" target="_blank">
                                 <FileCode2 className="stroke-icon hover:stroke-iconHover hover:scale-125 ease-in duration-300" />
                             </a>
                         </li>
